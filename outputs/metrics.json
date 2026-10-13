@@ -1,0 +1,10 @@
+{
+  "countries": 8,
+  "country_year_rows": 528,
+  "year_min": 1960,
+  "year_max": 2025,
+  "missing_population": 0,
+  "missing_urban_share": 0,
+  "latest_comparison_year": 2025,
+  "charts": 3
+}

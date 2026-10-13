@@ -1,0 +1,31 @@
+{
+  "retrieved_on": "2026-10-14",
+  "sources": {
+    "population.json": {
+      "url": "https://api.worldbank.org/v2/country/IND;CHN;IDN;BRA;NGA;USA;JPN;DEU/indicator/SP.POP.TOTL?format=json&per_page=1000&date=1960:2025",
+      "records": 528,
+      "api_metadata": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 528,
+        "sourceid": "2",
+        "lastupdated": "2026-10-08"
+      },
+      "sha256": "4da6b0a40d79a3de0bdf0ad23af8eb472dedc9a0fbc03da0ca676655fd627a4b"
+    },
+    "urban_share.json": {
+      "url": "https://api.worldbank.org/v2/country/IND;CHN;IDN;BRA;NGA;USA;JPN;DEU/indicator/SP.URB.TOTL.IN.ZS?format=json&per_page=1000&date=1960:2025",
+      "records": 528,
+      "api_metadata": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 528,
+        "sourceid": "2",
+        "lastupdated": "2026-10-08"
+      },
+      "sha256": "b51bb080cb8170469c593ca7de342adeba944f9f126f85e37e19c22c44d7408d"
+    }
+  }
+}
